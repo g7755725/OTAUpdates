@@ -6,14 +6,14 @@
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20190508</VersionNumber>
+  <Version type="integer">20190508</Version>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[https://www.dropbox.com/s/9hu3gzdnxd3hyoz/GamerROM_Orion_v4.0_Stable_For_Nexus_6_shamu.zip?dl=1]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl>DIRECT LINKS HERE</DirectUrl>
+  <DirectUrl>https://www.dropbox.com/s/9hu3gzdnxd3hyoz/GamerROM_Orion_v4.0_Stable_For_Nexus_6_shamu.zip?dl=1</DirectUrl>
   <HttpUrl>HTTP WEBSITE LINK HERE</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>8.1.0</Android>
