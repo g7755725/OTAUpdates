@@ -16,7 +16,7 @@
   <DirectUrl>DIRECT LINKS HERE</DirectUrl>
   <HttpUrl>HTTP WEBSITE LINK HERE</HttpUrl>
   <!-- What version are you issuing? -->
-  <Android>5.0.1</Android>
+  <Android>8.1.0</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
   <CheckMD5>f08e8c8793d4b7678327ed80038a7a32</CheckMD5>
@@ -25,10 +25,10 @@
   <FileSize type="integer">702706716</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
-  <Developer>DEVELOPER NAMES HERE</Developer>
+  <Developer>Cyberdev</Developer>
   <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
   <!-- OPTIONAL: Enter <Website nil="true" /> to hide this -->
-  <WebsiteURL>WEBSITE LINK HERE</WebsiteURL>
+  <WebsiteURL>https://androidforums.com/threads/rom-v8-1-0-gamerrom-orion-v3-4-weekly-updates-stable-nexus-6-shamu-updated-on-05-07-2019.1302672/</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
   <DonateURL>DONATE URL HERE</DonateURL>
