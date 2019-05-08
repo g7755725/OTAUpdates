@@ -31,7 +31,7 @@
   <WebsiteURL>https://androidforums.com/threads/rom-v8-1-0-gamerrom-orion-v3-4-weekly-updates-stable-nexus-6-shamu-updated-on-05-07-2019.1302672/</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
-  <DonateURL>null</DonateURL>
+  <DonateURL>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A8FYPYUBUHL6G&source=url</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 20190508
