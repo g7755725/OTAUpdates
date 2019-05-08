@@ -6,7 +6,7 @@
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <Version type="integer">20190508</Version>
+  <VersionNumber type="integer">20190608</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[https://www.dropbox.com/s/9hu3gzdnxd3hyoz/GamerROM_Orion_v4.0_Stable_For_Nexus_6_shamu.zip?dl=1]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
@@ -31,7 +31,7 @@
   <WebsiteURL>https://androidforums.com/threads/rom-v8-1-0-gamerrom-orion-v3-4-weekly-updates-stable-nexus-6-shamu-updated-on-05-07-2019.1302672/</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
-  <DonateURL>DONATE URL HERE</DonateURL>
+  <DonateURL>null</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 20190508
